@@ -6,10 +6,6 @@
   "scripts": {
     "deploy": "gh-pages -d src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:RaulCarbono/Javascript_practice.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
